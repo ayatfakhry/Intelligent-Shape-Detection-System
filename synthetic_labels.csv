@@ -1,0 +1,3 @@
+Method,Average Detected Shapes,Max Detected Shapes,Min Detected Shapes
+Classical CV,3.9,7,1
+YOLO Deep Learning,4.36,8,1

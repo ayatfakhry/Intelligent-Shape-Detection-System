@@ -1,0 +1,7 @@
+shape,confidence,centroid_x,centroid_y,azimuth_deg,elevation_deg,pan_motor_direction,tilt_motor_direction,pan_angle_deg,tilt_angle_deg
+polygon,0.275,356,383,11.72,-11.16,RIGHT,DOWN,11.72,11.16
+polygon,0.282,245,319,-1.29,-5.54,LEFT,DOWN,1.29,5.54
+circle,0.902,104,281,-17.81,-2.2,LEFT,DOWN,17.81,2.2
+polygon,0.276,369,175,13.24,7.12,RIGHT,UP,13.24,7.12
+pentagon,0.85,127,119,-15.12,12.04,LEFT,UP,15.12,12.04
+pentagon,0.85,282,55,3.05,17.67,RIGHT,UP,3.05,17.67

@@ -1,0 +1,4 @@
+shape,count,avg_confidence,avg_area,avg_perimeter
+circle,1,0.902,8024.0,334.39
+pentagon,2,0.85,2958.0,216.99
+polygon,3,0.278,1983.0,890.66

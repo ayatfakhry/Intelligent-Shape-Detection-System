@@ -1,0 +1,50 @@
+
+# Intelligent Shape Detection & Geometric Understanding System
+
+## Project Overview
+This project implements an advanced computer vision and AI-based system for geometric shape detection, classification, feature extraction, confidence scoring, robustness testing, and AI-powered shape recognition.
+
+## Dataset
+- Synthetic images generated: 120
+- Synthetic labels generated: 1175
+- External dataset tested: True
+
+## Computer Vision Pipeline
+The system includes:
+- Image preprocessing
+- Adaptive thresholding
+- Morphological filtering
+- Contour detection
+- Rule-based shape classification
+- Geometry extraction
+- Dominant color analysis
+- Confidence score estimation
+
+## AI Extension
+A Random Forest classifier was trained using extracted geometric features.
+
+### AI Model
+- Model type: Random Forest Classifier
+- Training samples: 1221
+- Shape classes: ['circle', 'pentagon', 'rectangle', 'square', 'triangle']
+- Features used: ['area', 'perimeter', 'bbox_w', 'bbox_h', 'aspect_ratio', 'circularity', 'sides', 'orientation_deg']
+
+## Main Results
+- Detected shapes in test image: 6
+- Detected shapes using AI: 6
+- Average AI confidence: 0.878
+
+## Robustness Test
+- Clean image detections: 6
+- Noisy/blurred image detections: 6
+- Robust average AI confidence: 0.863
+
+## Exported Files
+- detected_shapes_output.png
+- ai_powered_detection_output.png
+- ai_powered_detection_results.csv
+- ai_feature_importance.csv
+- ai_shape_classifier_random_forest.pkl
+
+## Conclusion
+The project demonstrates a complete computer vision and AI workflow suitable for software engineering portfolios, research applications, and international internship opportunities.

@@ -1,0 +1,7 @@
+shape,count,avg_confidence,avg_area
+circle,22,0.889,6233.48
+pentagon,27,0.85,4686.96
+polygon,63,0.438,8212.79
+rectangle,16,0.598,13810.88
+square,28,0.996,6350.61
+triangle,17,0.9,3908.26
